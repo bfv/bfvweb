@@ -1,0 +1,8 @@
+{
+    "name": "bfvweb",
+    "version": "0.0.1",
+    "description": "REST server test",
+    "dependencies": {
+        "express": "3.x"
+    }
+}
